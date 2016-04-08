@@ -1,0 +1,16 @@
+from TwitterFollowBot import TwitterBot
+
+my_bot = TwitterBot()
+my_bot.auto_fav("bonnaroo")
+my_bot.auto_fav("coachella")
+my_bot.auto_fav("austin city limits")
+my_bot.auto_fav("governors ball")
+my_bot.auto_fav("digital dreams")
+my_bot.auto_fav("outside lands")
+my_bot.auto_fav("voodoo fest")
+my_bot.auto_fav("firefly festival")
+my_bot.auto_fav("hangout festival")
+my_bot.auto_fav("jazz fest")
+my_bot.auto_fav("sxsw")
+my_bot.auto_fav("wakarusa")
+my_bot.auto_fav("wanderlust festival")
